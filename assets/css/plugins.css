@@ -1,0 +1,22 @@
+/*---------------------------------------------
+
+    Website Name: Idiba Group
+    Description: Idiba home page and others
+    Author: Idiba group sarl
+    Version: 1.0
+
+---------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("../css/bootstrap.min.css");
+@import url("../css/glightbox.min.css");
+@import url("../css/swiper-bundle.min.css");
+@import url("../vendor/bootstrap-icons/bootstrap-icons.css");
+
+/* == slick carousel == */
+@import url("../css/slick.css");
+@import url("../css/slick-theme.css");
+
+/* == fontawesome icon font == */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
+
